@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "leather"
+    },
+    "X": {
+      "item": "string"
+    },
+    "O": {
+      "item": "iron_ingot"
+    }
+  },
+  "pattern": [
+    "###",
+    "X#X",
+    "O O"
+  ],
+  "result": {
+    "item": "saddle"
+  },
+  "__displayName__": "Saddle"
+}

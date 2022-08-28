@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "bone_meal"
+    },
+    "X": {
+      "item": "apple"
+    }
+  },
+  "pattern": [
+    "#",
+    "X"
+  ],
+  "result": {
+    "item": "apple",
+    "count": 2
+  },
+  "__displayName__": "Apple"
+}

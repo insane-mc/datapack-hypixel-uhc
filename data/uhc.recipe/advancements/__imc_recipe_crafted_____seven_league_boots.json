@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "Unlocked": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "uhc.recipe:seven_league_boots"
+      }
+    }
+  },
+  "rewards": {
+    "function": "uhc.recipe:__imc_recipe_crafted__/seven_league_boots"
+  }
+}

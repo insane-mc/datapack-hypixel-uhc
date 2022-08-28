@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "water_bucket"
+    },
+    "X": {
+      "item": "lava_bucket"
+    }
+  },
+  "pattern": [
+    "#",
+    "X"
+  ],
+  "result": {
+    "item": "obsidian"
+  },
+  "__displayName__": "Obsidian"
+}

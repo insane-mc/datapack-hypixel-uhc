@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "bone"
+    },
+    "X": {
+      "item": "iron_sword"
+    },
+    "O": {
+      "item": "rotten_flesh"
+    }
+  },
+  "pattern": [
+    "#",
+    "X",
+    "O"
+  ],
+  "result": {
+    "item": "minecraft:knowledge_book"
+  },
+  "__displayName__": "Vorpal Sword"
+}

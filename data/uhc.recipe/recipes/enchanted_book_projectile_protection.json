@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "paper"
+    },
+    "X": {
+      "item": "arrow"
+    }
+  },
+  "pattern": [
+    "##",
+    "#X"
+  ],
+  "result": {
+    "item": "minecraft:knowledge_book"
+  },
+  "__displayName__": "Projectile Protection Enchanted Book"
+}

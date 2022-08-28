@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "raw_iron"
+    },
+    "X": {
+      "item": "coal"
+    }
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "item": "iron_ingot",
+    "count": 10
+  },
+  "__displayName__": "Iron Ingot"
+}

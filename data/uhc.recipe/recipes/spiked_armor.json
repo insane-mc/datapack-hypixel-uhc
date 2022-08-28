@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "lily_pad"
+    },
+    "X": {
+      "item": "cactus"
+    },
+    "O": {
+      "item": "leather_chestplate"
+    }
+  },
+  "pattern": [
+    "#",
+    "X",
+    "O"
+  ],
+  "result": {
+    "item": "minecraft:knowledge_book"
+  },
+  "__displayName__": "Spiked Armor"
+}

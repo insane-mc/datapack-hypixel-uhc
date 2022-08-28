@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "bookshelf"
+    },
+    "X": {
+      "item": "obsidian"
+    },
+    "O": {
+      "item": "diamond"
+    },
+    "$": {
+      "item": "experience_bottle"
+    }
+  },
+  "pattern": [
+    " # ",
+    "XOX",
+    "X$X"
+  ],
+  "result": {
+    "item": "enchantment_table"
+  },
+  "__displayName__": "Enchantment Table"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "oak_sapling"
+    },
+    "X": {
+      "item": "raw_gold"
+    },
+    "O": {
+      "item": "coal"
+    }
+  },
+  "pattern": [
+    " # ",
+    "XOX"
+  ],
+  "result": {
+    "item": "reeds",
+    "count": 4
+  },
+  "__displayName__": "Sugar Canes"
+}

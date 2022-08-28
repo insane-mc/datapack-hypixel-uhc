@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "Unlocked": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "uhc.recipe:golden_head"
+      }
+    }
+  },
+  "rewards": {
+    "function": "uhc.recipe:__imc_recipe_crafted__/golden_head"
+  }
+}

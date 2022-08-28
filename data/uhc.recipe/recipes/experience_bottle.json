@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "redstone_block"
+    },
+    "X": {
+      "item": "glass_bottle"
+    }
+  },
+  "pattern": [
+    " # ",
+    "#X#",
+    " # "
+  ],
+  "result": {
+    "item": "experience_bottle",
+    "count": 8
+  },
+  "__displayName__": "Bottle oʼ Enchanting"
+}

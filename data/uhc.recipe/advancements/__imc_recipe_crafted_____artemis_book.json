@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "Unlocked": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "uhc.recipe:artemis_book"
+      }
+    }
+  },
+  "rewards": {
+    "function": "uhc.recipe:__imc_recipe_crafted__/artemis_book"
+  }
+}

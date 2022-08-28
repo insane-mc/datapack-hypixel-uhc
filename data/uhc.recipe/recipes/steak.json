@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "beef"
+    },
+    "X": {
+      "item": "coal"
+    }
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "item": "cooked_beef",
+    "count": 10
+  },
+  "__displayName__": "Steak"
+}

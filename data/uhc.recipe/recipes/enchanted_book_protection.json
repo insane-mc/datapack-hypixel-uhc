@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "paper"
+    },
+    "X": {
+      "item": "iron_ingot"
+    }
+  },
+  "pattern": [
+    "##",
+    "#X"
+  ],
+  "result": {
+    "item": "minecraft:knowledge_book"
+  },
+  "__displayName__": "Protection Enchanted Book"
+}

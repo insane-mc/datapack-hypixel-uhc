@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "gold_ingot"
+    },
+    "X": {
+      "item": "player_head"
+    }
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "item": "minecraft:knowledge_book"
+  },
+  "__displayName__": "Golden Head"
+}

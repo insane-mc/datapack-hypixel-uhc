@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "flint"
+    },
+    "X": {
+      "item": "stick"
+    },
+    "O": {
+      "item": "feather"
+    }
+  },
+  "pattern": [
+    "###",
+    "XXX",
+    "OOO"
+  ],
+  "result": {
+    "item": "arrow",
+    "count": 20
+  },
+  "__displayName__": "Arrow"
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "stick"
+    },
+    "X": {
+      "item": "leather"
+    }
+  },
+  "pattern": [
+    "#X#",
+    "#X#",
+    "#X#"
+  ],
+  "result": {
+    "item": "leather",
+    "count": 8
+  },
+  "__displayName__": "Economy Leather"
+}

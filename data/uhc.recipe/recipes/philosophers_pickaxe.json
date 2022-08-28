@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "raw_iron"
+    },
+    "X": {
+      "item": "coal"
+    },
+    "O": {
+      "item": "stick"
+    }
+  },
+  "pattern": [
+    "###",
+    "XOX",
+    " O "
+  ],
+  "result": {
+    "item": "minecraft:knowledge_book"
+  },
+  "__displayName__": "Efficiency Pickaxe"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "bone_meal"
+    },
+    "X": {
+      "item": "wheat_seeds"
+    },
+    "O": {
+      "item": "apple"
+    }
+  },
+  "pattern": [
+    "#X#",
+    "XOX",
+    "#X#"
+  ],
+  "result": {
+    "item": "melon"
+  },
+  "__displayName__": "Melon"
+}

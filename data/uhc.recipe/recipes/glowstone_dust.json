@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "redstone"
+    },
+    "X": {
+      "item": "flint_and_steel"
+    }
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "item": "glowstone_dust",
+    "count": 8
+  },
+  "__displayName__": "Glowstone Dust"
+}

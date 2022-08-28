@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "iron_ingot"
+    },
+    "X": {
+      "item": "iron_block"
+    }
+  },
+  "pattern": [
+    "###",
+    " X ",
+    "###"
+  ],
+  "result": {
+    "item": "anvil"
+  },
+  "__displayName__": "Anvil"
+}

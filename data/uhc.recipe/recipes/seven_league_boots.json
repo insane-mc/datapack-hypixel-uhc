@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "feather"
+    },
+    "X": {
+      "item": "ender_pearl"
+    },
+    "O": {
+      "item": "water_bucket"
+    },
+    "$": {
+      "item": "diamond_boots"
+    }
+  },
+  "pattern": [
+    "#X#",
+    "#O#",
+    "#$#"
+  ],
+  "result": {
+    "item": "minecraft:knowledge_book"
+  },
+  "__displayName__": "Seven-league Boots"
+}
