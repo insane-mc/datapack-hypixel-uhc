@@ -37,4 +37,4 @@ advancement revoke @p only uhc.recipe:__imc_recipe_crafted_____golden_head
 recipe take @p uhc.recipe:philosophers_pickaxe
 advancement revoke @p only uhc.recipe:__imc_recipe_crafted_____philosophers_pickaxe
 
-tellraw @p [{"text":"Datapack "},{"text":"hypixel-uhc","bold":true,"color":"blue"},{"text":" is loaded.\n"},{"text":"Click "},{"text":"here","underlined":true,"color":"green","clickEvent":{"action":"run_command","value":"/function uhc.recipe:give_recipe_book"}},{"text":" or use command "},{"text":"/function uhc.recipe:give_recipe_book","color":"gold","clickEvent":{"action":"copy_to_clipboard","value":"/function uhc.recipe:give_recipe_book"}},{"text":" to get the recipe book.\n"}]
+tellraw @p [{"text":"Datapack "},{"text":"hypixel-uhc","bold":true,"color":"blue"},{"text":" is loaded.\n"},{"text":"Click "},{"text":"here","underlined":true,"color":"green","clickEvent":{"action":"run_command","value":"/function uhc:give_recipe_book"}},{"text":" or use command "},{"text":"/function uhc:give_recipe_book","color":"gold","clickEvent":{"action":"copy_to_clipboard","value":"/function uhc:give_recipe_book"}},{"text":" to get the recipe book.\n"}]
